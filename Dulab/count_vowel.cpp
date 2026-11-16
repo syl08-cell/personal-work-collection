@@ -36,7 +36,8 @@ a:2
 e:1
 i:3
 o:0
-u:1*/
+u:1
+*/
 
 #include <iostream>
 using namespace std;
